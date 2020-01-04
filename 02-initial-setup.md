@@ -8,6 +8,8 @@
 
 ## Initial Setup
 
+[Download Node.js](https://nodejs.org/en/download/) (If not already installed).<br>
+
 Let's jump right in! We'll create a skeleton React project and walk through it as we go.
 
 An easy way to start React projects is to use a Terminal program called `create-react-app`. This excellent tool, created by Facebook, will help you set up a bare-bones React app instantly. We can simply install the package and start coding.
