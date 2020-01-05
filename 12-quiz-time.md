@@ -18,9 +18,9 @@ ReactDOM.render(
 _Choices_:
 
 1. `Milkshake.js`
-2. `Ingredients.js`
+2. `Ingredients.js` 
 
-
+1
 -----------------------------------
 
 _Prompt_:  A component is being passed a prop named `flavor`. What JSX would the component return in its `render` method to display the prop in a paragraph?
@@ -32,7 +32,7 @@ _Choices_:
 3. `<p>My favorite ice cream is {props.flavor}!</p>`
 4. `<p>My favorite ice cream is {this.flavor}!</p>`
 
-
+1
 -----------------------------------
 
 _Prompt_:  Is this a valid Component declaration?
@@ -53,7 +53,7 @@ _Choices_:
 1. Yes
 2. No
 
-
+2
 ----------------------------------
 
 _Prompt_:  Is this a valid way to, in a file called `Spices.js`, render the JSX that the `Cinnamon` component returns to the screen?
@@ -70,7 +70,7 @@ _Choices_:
 1. Yes
 2. No
 
-
+1
 ----------------------------------
 
 _Prompt_: What, specifically, happens when this method is called?
@@ -93,7 +93,7 @@ _Choices_:
 4. The `ReactDOM.render` method generates a new element with an ID of `root`, which it populates with the JSX returned from the `Kangaroos` component. React updates the virtual DOM to have this new element, which the browser sees to dynamically change the page with the new element on it.
 
 
-
+2
 -----------------------------------
 
 _Prompt_:  If you have multiple components written in a single file, you can then have multiple default export statements at the bottom of that file - one for each component.
@@ -103,7 +103,7 @@ _Choices_:
 1. True
 2. False
 
-
+2
 ----------------------------------
 
 _Prompt_:  What is React.js?
@@ -115,7 +115,7 @@ _Choices_:
 3. A library of independent, reusable pieces of user interface that you can call upon to add variability to your application.
 4. All of the above
 
-
+1
 -----------------------------------
 
 _Prompt_:  Take a look at the following React file. Choose the reason(s) it won't run properly.
@@ -150,7 +150,7 @@ _Choices_:
 4. When passing the props into `Store`, the syntax is `this.groceryList.important` and `this.groceryList.spices`
 
 
-
+1
 ----------------------------------
 
 
@@ -163,7 +163,7 @@ _Choices_:
 3. `create-react-app jungle_maze`
 4. `create-react-app index/jungle_maze.js`
 
-
+3
 ----------------------------------
 
 _Prompt_:  If I'm displaying multiple nested components, assuming the `Flowers` component is being passed all necessary props and the `Daisy` component is imported and written correctly, is this valid syntax?
@@ -194,3 +194,4 @@ _Choices_:
 
 1. Yes
 2. No
+2
